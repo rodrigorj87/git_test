@@ -1,0 +1,2 @@
+Hello World!
+This is a text file for the Project Practicing Git Basics on The Odin Project Fondations Course.
